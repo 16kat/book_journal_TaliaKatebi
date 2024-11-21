@@ -64,7 +64,7 @@ public class HobbitsDen extends Application {
 
         // Top: Title
         VBox top = new VBox();
-        Label titleLabel = new Label("Welcome to Book Journal!!!");
+        Label titleLabel = new Label("Welcome to Book Journal CSI2300!!!");
         titleLabel.setFont(Font.font("Arial", FontWeight.BOLD, 24));
         top.getChildren().add(titleLabel);
         top.setPadding(new Insets(10));
