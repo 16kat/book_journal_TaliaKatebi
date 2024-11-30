@@ -84,7 +84,7 @@ public class HobbitsDen extends Application {
         @Override
         public String toString() {
             return "Title: " + title + "\nAuthor: " + author + "\nGenre: " + genre +
-                   "\nDate Finished: " + dateFinished + "\nRating: " + rating +
+                   "\nDate Finished reading: " + dateFinished + "\nRating: " + rating +
                    "\nNotes: " + notes;
         }
     
